@@ -1,0 +1,10 @@
+gradio
+openai
+python-dotenv
+joblib
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+xgboost
