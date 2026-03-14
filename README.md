@@ -232,7 +232,7 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-- André Costa
+- André Codea
 
 ## 🙏 Acknowledgments
 
